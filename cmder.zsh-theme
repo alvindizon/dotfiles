@@ -1,4 +1,4 @@
-# copy this file to ~/.oh-my-zsh/custom/thems/
+# copy this file to ~/.oh-my-zsh/custom/themes/
 #!/bin/zsh
 
 upsearch () {
